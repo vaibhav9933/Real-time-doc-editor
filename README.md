@@ -50,7 +50,11 @@ User edits the document.
 Changes are broadcasted in real time.
 Document is auto-saved to MongoDB.
 🖼️ Screenshots
+![Image](https://github.com/user-attachments/assets/f9a4b018-3aad-4b5d-bd66-9a04076428cb)
 
+![Image](https://github.com/user-attachments/assets/69ebf979-de6a-495b-ae69-6bcb845bd430)
+
+![Image](https://github.com/user-attachments/assets/c77d29bf-68e5-48de-a2a7-90909255c884)
 
 👥 Contributors
 Vaibhav Rahane
