@@ -26,7 +26,9 @@ A real-time collaborative document editor built with React.js, Node.js, Express.
 *🏗️ Tech Stack*
 
 Frontend: React.js, Vite, Quill.js, Socket.io-client
+
 Backend: Node.js, Express.js, MongoDB, Mongoose, Socket.io
+
 Database: MongoDB
 
 *📂 Project Structure*
