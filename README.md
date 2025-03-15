@@ -16,6 +16,7 @@
 A real-time collaborative document editor built with React.js, Node.js, Express.js, MongoDB, and Socket.io. This application allows multiple users to edit documents simultaneously while changes are instantly reflected for all connected users.
 
 *🚀 Features*
+
 ✅ Real-time Collaboration – Users can edit documents in real time, and changes are instantly synchronized.
 ✅ WebSockets (Socket.io) – Ensures seamless communication between users.
 ✅ MongoDB Database – Auto-save functionality for document storage.
@@ -23,9 +24,11 @@ A real-time collaborative document editor built with React.js, Node.js, Express.
 ✅ Light/Dark Mode – Switch between themes for comfortable editing.
 
 *🏗️ Tech Stack*
+
 Frontend: React.js, Vite, Quill.js, Socket.io-client
 Backend: Node.js, Express.js, MongoDB, Mongoose, Socket.io
 Database: MongoDB
+
 *📂 Project Structure*
 
 real-time-doc-editor/
@@ -42,13 +45,14 @@ real-time-doc-editor/
 
 
 *🎯 How It Works*
+
 User opens the editor.
 WebSocket connects to the backend.
 User edits the document.
 Changes are broadcasted in real time.
 Document is auto-saved to MongoDB.
 
-*🖼️ Screenshots*
+*🖼️ OUTPUT :*
 
 ![Image](https://github.com/user-attachments/assets/f9a4b018-3aad-4b5d-bd66-9a04076428cb)
 
