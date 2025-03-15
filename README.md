@@ -83,9 +83,6 @@ Below are some screenshots of the **Real-Time Collaborative Document Editor** in
 
 ![Editor Screenshot 3](https://github.com/user-attachments/assets/c77d29bf-68e5-48de-a2a7-90909255c884)
 
-### 👥 Contributors
-
-- **Vaibhav Rahane**: Project Lead and Developer
 
 ### 📝 Future Improvements
 
