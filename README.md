@@ -45,6 +45,11 @@ real-time-doc-editor/
 │── package.json     # Dependencies
 │── README.md        # Project documentation
 
+*Server Running on port*
+
+The backend will run on http://localhost:5000
+
+The frontend will run on http://localhost:5173
 
 *🎯 How It Works*
 
